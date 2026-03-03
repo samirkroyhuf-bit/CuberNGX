@@ -24,8 +24,8 @@ CyberNGX provides expert IT support and cybersecurity services to organizations,
 ## Technology Stack
 
 - Firewalls: Fortinet, Palo Alto, Sophos
-- GRC: ServiceNow, Archer
-- Monitoring: Splunk, SolarWinds, QRadar
+- GRC: ServiceNow, 
+- Monitoring: Manage Engine, Splunk, SolarWinds
 - EDR: CrowdStrike
 
 ## Quick Deployment
@@ -38,12 +38,12 @@ CyberNGX provides expert IT support and cybersecurity services to organizations,
 ## Contact
 
 - **Location**: Mumbai, Maharashtra, India
-- **Email**: [contact@cyberngx.com](mailto:contact@cyberngx.com)
-- **Website**: [cyberngx.com](https://cyberngx.com)
+- **Email**: roy.samir@cyberNGX.com
+- **Website**: www.cyberNGX.com
 
 ## Live Demo
 
-[cyberngx.github.io/cyberngx](https://yourusername.github.io/cyberngx)
+roy.samir@cyberNGX.com
 
 ---
 
